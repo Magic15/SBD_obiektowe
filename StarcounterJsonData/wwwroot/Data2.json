@@ -1,0 +1,1306 @@
+{
+  "Aircrafts": [
+    {
+      "Type": "Embraer ERJ-175LR",
+      "Registration": "SP-LIO",
+      "Age": 10,
+      "Role": "Narrow-body jet airliner",
+      "Manufacturer": "Embraer",
+      "Seats": 82,
+      "FuelConsumption": 1000,
+      "Pilots": [
+        {
+          "FirstName": "Jan",
+          "Surname": "Kowalski",
+          "Age": 33,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Michal",
+          "Surname": "Orlowski",
+          "Age": 28,
+          "Country": "Poland",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Ania",
+          "Surname": "Nowicka",
+          "Age": 55,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Alina",
+          "Surname": "Kowalska",
+          "Age": 65,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Boeing 737 MAX 8",
+      "Registration": "SP-LVA",
+      "Age": 10,
+      "Role": "Narrow-body jet airliner",
+      "Manufacturer": "Boeing Commercial Airplanes",
+      "Seats": 172,
+      "FuelConsumption": 1050,
+      "Pilots": [
+        {
+          "FirstName": "Sebastian",
+          "Surname": "Muras",
+          "Age": 34,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Michal",
+          "Surname": "Orlowski",
+          "Age": 25,
+          "Country": "Poland",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Hanna",
+          "Surname": "Brodacz",
+          "Age": 25,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Barbara",
+          "Surname": "Swierszcz",
+          "Age": 22,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "DUSDXB",
+          "Departure": "15:25:00",
+          "DepartureDelay": "00:07:00",
+          "Arrival": "23:55:00",
+          "ArrivalDelay": "00:00:00",
+          "AvgFlightTime": "06:05:00",
+          "Distance": 5012,
+          "Airports": [
+            {
+              "Designation": "Dusseldorf Airport",
+              "Type": "public",
+              "Country": "Germany",
+              "Passengers": 23521919,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Incheon International Airport",
+              "Type": "public",
+              "Country": "South Korea",
+              "Passengers": 62082032,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Bombardier Dash 8 Q400",
+      "Registration": "SP-EQF",
+      "Age": 13,
+      "Role": "Turboprop airliner",
+      "Manufacturer": "de Havilland Canada Bombardier Aerospace",
+      "Seats": 78,
+      "FuelConsumption": 1150,
+      "Pilots": [
+        {
+          "FirstName": "Marcin",
+          "Surname": "Swierszcz",
+          "Age": 34,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Jakub",
+          "Surname": "Brzeczyk",
+          "Age": 26,
+          "Country": "Poland",
+          "Experience": "Low"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Hanna",
+          "Surname": "Brodacz",
+          "Age": 25,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Barbara",
+          "Surname": "Swierszcz",
+          "Age": 22,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "DUSDXB",
+          "Departure": "15:25:00",
+          "DepartureDelay": "00:07:00",
+          "Arrival": "23:55:00",
+          "ArrivalDelay": "00:00:00",
+          "AvgFlightTime": "06:05:00",
+          "Distance": 5012,
+          "Airports": [
+            {
+              "Designation": "Dusseldorf Airport",
+              "Type": "public",
+              "Country": "Germany",
+              "Passengers": 23521919,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Incheon International Airport",
+              "Type": "public",
+              "Country": "South Korea",
+              "Passengers": 62082032,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Boeing 737-7K2",
+      "Registration": "PH-BGI",
+      "Age": 9,
+      "Role": "Narrow-body jet airliner",
+      "Manufacturer": "Boeing Commercial Airplanes",
+      "Seats": 132,
+      "FuelConsumption": 1050,
+      "Pilots": [
+        {
+          "FirstName": "Arkadiusz",
+          "Surname": "Malarz",
+          "Age": 32,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Maciej",
+          "Surname": "Kochanowski",
+          "Age": 26,
+          "Country": "Poland",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Hanna",
+          "Surname": "Brodacz",
+          "Age": 25,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Barbara",
+          "Surname": "Swierszcz",
+          "Age": 22,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Boeing 737-8AS",
+      "Registration": "EI-EKD",
+      "Age": 9,
+      "Role": "Narrow-body jet airliner",
+      "Manufacturer": "Boeing Commercial Airplanes",
+      "Seats": 189,
+      "FuelConsumption": 1030,
+      "Pilots": [
+        {
+          "FirstName": "Karol",
+          "Surname": "Lewandowski",
+          "Age": 38,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Rafal",
+          "Surname": "Grabiec",
+          "Age": 27,
+          "Country": "Poland",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Helen",
+          "Surname": "Ratajkowsky",
+          "Age": 25,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Kate",
+          "Surname": "Middleton",
+          "Age": 24,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "ICNMUC",
+          "Departure": "12:15:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "16:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "11:04:00",
+          "Distance": 8092,
+          "Airports": [
+            {
+              "Designation": "Munich Airport",
+              "Type": "public",
+              "Country": "Germany",
+              "Passengers": 44577241,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Narita International Airport",
+              "Type": "public",
+              "Country": "Japan",
+              "Passengers": 39053652,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Airbus A320-214",
+      "Registration": "D-ABNI",
+      "Age": 8,
+      "Role": "Narrow-body jet airliner",
+      "Manufacturer": "Airbus",
+      "Seats": 168,
+      "FuelConsumption": 1020,
+      "Pilots": [
+        {
+          "FirstName": "John",
+          "Surname": "Newman",
+          "Age": 38,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "George",
+          "Surname": "Smith",
+          "Age": 27,
+          "Country": "Poland",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Helen",
+          "Surname": "Ratajkowsky",
+          "Age": 25,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Kate",
+          "Surname": "Middleton",
+          "Age": 24,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "ICNMUC",
+          "Departure": "12:15:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "16:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "11:04:00",
+          "Distance": 8092,
+          "Airports": [
+            {
+              "Designation": "Munich Airport",
+              "Type": "public",
+              "Country": "Germany",
+              "Passengers": 44577241,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Narita International Airport",
+              "Type": "public",
+              "Country": "Japan",
+              "Passengers": 39053652,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Airbus A380-841",
+      "Registration": "G-XLEA",
+      "Age": 6,
+      "Role": "Wide-body/double-deck jet airliner",
+      "Manufacturer": "Airbus",
+      "Seats": 303,
+      "FuelConsumption": 1120,
+      "Pilots": [
+        {
+          "FirstName": "Michael",
+          "Surname": "Johnson",
+          "Age": 39,
+          "Country": "Poland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Donald",
+          "Surname": "Brown",
+          "Age": 26,
+          "Country": "Poland",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Jennifer",
+          "Surname": "Lope",
+          "Age": 25,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Cristina",
+          "Surname": "Akilera",
+          "Age": 24,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Boeing 747-236B",
+      "Registration": "4L-GEO",
+      "Age": 15,
+      "Role": "Wide-body ",
+      "Manufacturer": "Boeing Commercial Airplanes",
+      "Seats": 185,
+      "FuelConsumption": 1010,
+      "Pilots": [
+        {
+          "FirstName": "Brian",
+          "Surname": "Davis",
+          "Age": 37,
+          "Country": "Belarus",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "William",
+          "Surname": "Wilson",
+          "Age": 24,
+          "Country": "Belarus",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Jennifer",
+          "Surname": "Lope",
+          "Age": 25,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Cristina",
+          "Surname": "Akilera",
+          "Age": 24,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Fokker 100",
+      "Registration": "HB-JVE",
+      "Age": 20,
+      "Role": "Narrow-body Regional jet airliner",
+      "Manufacturer": "Fokker",
+      "Seats": 95,
+      "FuelConsumption": 910,
+      "Pilots": [
+        {
+          "FirstName": "Ethan",
+          "Surname": "Moore",
+          "Age": 37,
+          "Country": "United States",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Alexander",
+          "Surname": "Taylor",
+          "Age": 24,
+          "Country": "United States",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Agnieszka",
+          "Surname": "Majkos",
+          "Age": 22,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Cristina",
+          "Surname": "Akilera",
+          "Age": 24,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Embraer ERJ-145EP",
+      "Registration": "G-RJXH",
+      "Age": 11,
+      "Role": "Twin-engine Regional airliner",
+      "Manufacturer": "Embraer",
+      "Seats": 49,
+      "FuelConsumption": 810,
+      "Pilots": [
+        {
+          "FirstName": "Daniel",
+          "Surname": "Thomas",
+          "Age": 39,
+          "Country": "United States",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Liam",
+          "Surname": "Jackson",
+          "Age": 26,
+          "Country": "United States",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Agnieszka",
+          "Surname": "Majkos",
+          "Age": 22,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Cristina",
+          "Surname": "Akilera",
+          "Age": 24,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "NRTMXP",
+          "Departure": "12:45:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "18:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "12:19:00",
+          "Distance": 8854,
+          "Airports": [
+            {
+              "Designation": "Milan-Malpensa Airport",
+              "Type": "public",
+              "Country": "Italy",
+              "Passengers": 22169167,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Vaclav Havel Airport Prague",
+              "Type": "public",
+              "Country": "Czech Republic",
+              "Passengers": 15415001,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Boeing 777-367(ER)",
+      "Registration": "B-KQN",
+      "Age": 13,
+      "Role": "Wide-body jet airliner",
+      "Manufacturer": "Boeing Commercial Airplanes",
+      "Seats": 182,
+      "FuelConsumption": 1010,
+      "Pilots": [
+        {
+          "FirstName": "Mason",
+          "Surname": "White",
+          "Age": 39,
+          "Country": "United States",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Noah",
+          "Surname": "Brown",
+          "Age": 26,
+          "Country": "United States",
+          "Experience": "Low"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Helen",
+          "Surname": "Ratajkowsky",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Hanna",
+          "Surname": "Brodacz",
+          "Age": 24,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "NRTMXP",
+          "Departure": "12:45:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "18:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "12:19:00",
+          "Distance": 8854,
+          "Airports": [
+            {
+              "Designation": "Milan-Malpensa Airport",
+              "Type": "public",
+              "Country": "Italy",
+              "Passengers": 22169167,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Vaclav Havel Airport Prague",
+              "Type": "public",
+              "Country": "Czech Republic",
+              "Passengers": 15415001,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Fairchild Swearingen Metroliner",
+      "Registration": "EC-JIP",
+      "Age": 21,
+      "Role": "Regional airliner",
+      "Manufacturer": "Fairchild",
+      "Seats": 22,
+      "FuelConsumption": 510,
+      "Pilots": [
+        {
+          "FirstName": "Lucas",
+          "Surname": "Black",
+          "Age": 39,
+          "Country": "Germany",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Aiden",
+          "Surname": "Green",
+          "Age": 50,
+          "Country": "Germany",
+          "Experience": "Low"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Helen",
+          "Surname": "Ratajkowsky",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Hanna",
+          "Surname": "Brodacz",
+          "Age": 24,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "NRTMXP",
+          "Departure": "12:45:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "18:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "12:19:00",
+          "Distance": 8854,
+          "Airports": [
+            {
+              "Designation": "Milan-Malpensa Airport",
+              "Type": "public",
+              "Country": "Italy",
+              "Passengers": 22169167,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Vaclav Havel Airport Prague",
+              "Type": "public",
+              "Country": "Czech Republic",
+              "Passengers": 15415001,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Airbus A321-211",
+      "Registration": "VQ-BHM",
+      "Age": 19,
+      "Role": "Narrow-body jet airlinerr",
+      "Manufacturer": "Airbus",
+      "Seats": 200,
+      "FuelConsumption": 1070,
+      "Pilots": [
+        {
+          "FirstName": "Jackson",
+          "Surname": "Clarck",
+          "Age": 32,
+          "Country": "Germany",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Logan",
+          "Surname": "Harrison",
+          "Age": 33,
+          "Country": "Germany",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Agnes",
+          "Surname": "Faoge",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Kate",
+          "Surname": "Middleton",
+          "Age": 26,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "NRTMXP",
+          "Departure": "12:45:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "18:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "12:19:00",
+          "Distance": 8854,
+          "Airports": [
+            {
+              "Designation": "Milan-Malpensa Airport",
+              "Type": "public",
+              "Country": "Italy",
+              "Passengers": 22169167,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Vaclav Havel Airport Prague",
+              "Type": "public",
+              "Country": "Czech Republic",
+              "Passengers": 15415001,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Airbus A319-111",
+      "Registration": "G-EZDH",
+      "Age": 12,
+      "Role": "Narrow-body jet airlinerr",
+      "Manufacturer": "Airbus",
+      "Seats": 156,
+      "FuelConsumption": 1050,
+      "Pilots": [
+        {
+          "FirstName": "David",
+          "Surname": "Walker",
+          "Age": 32,
+          "Country": "Spain",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Joseph",
+          "Surname": "Hall",
+          "Age": 33,
+          "Country": "France",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Agnes",
+          "Surname": "Faoge",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Kate",
+          "Surname": "Middleton",
+          "Age": 26,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Sukhoi Superjet 100-95B",
+      "Registration": "EI-FWE",
+      "Age": 5,
+      "Role": "Regional twin-engine jet airliner",
+      "Manufacturer": "Komsomolsk-on-Amur Aircraft Production Association",
+      "Seats": 87,
+      "FuelConsumption": 1050,
+      "Pilots": [
+        {
+          "FirstName": "Samuel",
+          "Surname": "Hernandez",
+          "Age": 38,
+          "Country": "Spain",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Henry",
+          "Surname": "Young",
+          "Age": 28,
+          "Country": "Slovakia",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Agnes",
+          "Surname": "Faoge",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Kate",
+          "Surname": "Middleton",
+          "Age": 26,
+          "Country": "United States"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Embraer ERJ-135ER",
+      "Registration": "G-RJXJ",
+      "Age": 11,
+      "Role": "Twin-engine Regional airliner",
+      "Manufacturer": "Embraer",
+      "Seats": 37,
+      "FuelConsumption": 543,
+      "Pilots": [
+        {
+          "FirstName": "Owen",
+          "Surname": "King",
+          "Age": 37,
+          "Country": "Spain",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Sebastian",
+          "Surname": "Wright",
+          "Age": 29,
+          "Country": "Slovakia",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Cristina",
+          "Surname": "Akilera",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Barbara",
+          "Surname": "Swierszcz",
+          "Age": 26,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "ATR 72-202",
+      "Registration": "EI-SLG",
+      "Age": 15,
+      "Role": "Regional airliner",
+      "Manufacturer": "ATR",
+      "Seats": 73,
+      "FuelConsumption": 543,
+      "Pilots": [
+        {
+          "FirstName": "Gabriel",
+          "Surname": "Lopez",
+          "Age": 37,
+          "Country": "Slovakia",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Carter",
+          "Surname": "Wrong",
+          "Age": 29,
+          "Country": "Turkey",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Cristina",
+          "Surname": "Akilera",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Barbara",
+          "Surname": "Swierszcz",
+          "Age": 26,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Airbus A330-203",
+      "Registration": "D-AXGA",
+      "Age": 13,
+      "Role": "Wide-body jet airliner",
+      "Manufacturer": "Airbus",
+      "Seats": 250,
+      "FuelConsumption": 1080,
+      "Pilots": [
+        {
+          "FirstName": "Luke",
+          "Surname": "Martin",
+          "Age": 35,
+          "Country": "Slovakia",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Anthony",
+          "Surname": "Garcia",
+          "Age": 27,
+          "Country": "China",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Jennifer",
+          "Surname": "Lope",
+          "Age": 22,
+          "Country": "United States"
+        },
+        {
+          "FirstName": "Barbara",
+          "Surname": "Swierszcz",
+          "Age": 26,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "AMSDXB",
+          "Departure": "15:20:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "23:59:00",
+          "ArrivalDelay": "00:10:00",
+          "AvgFlightTime": "06:17:00",
+          "Distance": 5174,
+          "Airports": [
+            {
+              "Designation": "Royal Amsterdam Airport Schiphol",
+              "Type": "public",
+              "Country": "Nederland",
+              "Passengers": 68515425,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Dubai International Airport",
+              "Type": "public",
+              "Country": "United Arab Emirates",
+              "Passengers": 88242099,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Embraer Legacy 650",
+      "Registration": "G-RJKL",
+      "Age": 7,
+      "Role": "Business jet",
+      "Manufacturer": "Embraer",
+      "Seats": 13,
+      "FuelConsumption": 580,
+      "Pilots": [
+        {
+          "FirstName": "Isaac",
+          "Surname": "Robinson",
+          "Age": 35,
+          "Country": "Finland",
+          "Experience": "High"
+        },
+        {
+          "FirstName": "Anthony",
+          "Surname": "Rodriguez",
+          "Age": 27,
+          "Country": "China",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+        {
+          "FirstName": "Hanna",
+          "Surname": "Brodacz",
+          "Age": 22,
+          "Country": "Poland"
+        },
+        {
+          "FirstName": "Monika",
+          "Surname": "Wons",
+          "Age": 26,
+          "Country": "Poland"
+        }
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "ICNMUC",
+          "Departure": "12:15:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "16:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "11:04:00",
+          "Distance": 8092,
+          "Airports": [
+            {
+              "Designation": "Munich Airport",
+              "Type": "public",
+              "Country": "Germany",
+              "Passengers": 44577241,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Narita International Airport",
+              "Type": "public",
+              "Country": "Japan",
+              "Passengers": 39053652,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "Airbus Helicopters H145",
+      "Registration": "D-HDSJ",
+      "Age": 11,
+      "Role": "Light utility helicopter",
+      "Manufacturer": "Eurocopter Airbus Helicopters",
+      "Seats": 4,
+      "FuelConsumption": 368,
+      "Pilots": [
+        {
+          "FirstName": "Wyat",
+          "Surname": "Lewis",
+          "Age": 35,
+          "Country": "Norway",
+          "Experience": "Medium"
+        }
+      ],
+      "Stewardesses": [
+
+      ],
+      "Flights": [
+        {
+          "FlightStatus": "ICNMUC",
+          "Departure": "12:15:00",
+          "DepartureDelay": "00:00:00",
+          "Arrival": "16:25:00",
+          "ArrivalDelay": "00:04:00",
+          "AvgFlightTime": "11:04:00",
+          "Distance": 8092,
+          "Airports": [
+            {
+              "Designation": "Munich Airport",
+              "Type": "public",
+              "Country": "Germany",
+              "Passengers": 44577241,
+              "Destination": "Departure"
+            },
+            {
+              "Designation": "Narita International Airport",
+              "Type": "public",
+              "Country": "Japan",
+              "Passengers": 39053652,
+              "Destination": "Arrival"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
